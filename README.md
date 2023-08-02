@@ -1,4 +1,4 @@
-# React Dice Game with Styled Components
+# Random6
 
 ![Dice Game](dice-game-screenshot.png)
 
