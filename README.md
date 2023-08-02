@@ -2,7 +2,7 @@
 
 ![Dice Game](dice-game-screenshot.png)
 
-Welcome to the React Dice Game! This project is a simple web application where users can play a fun dice game. The game involves rolling two dice and trying to achieve a higher score than the opponent.
+Welcome to the React Dice Game! This project is a simple web application where users can play a fun dice game. The game involves rolling a dice and trying to achieve a high score.
 
 ## Table of Contents
 
